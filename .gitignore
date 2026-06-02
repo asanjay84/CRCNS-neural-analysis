@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+*.whl
+*.res.*
+*.clu.*
+*.xml
+*.eeg
+*.tar
